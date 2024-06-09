@@ -1,4 +1,4 @@
-# FileShare
+# W3Transfer
 
 This is a decentralised file sharing Dapp built using Apillon SDK under Build on Polkadot: W3Transfer Educate Series conducted by Encode Club.
 
@@ -6,9 +6,9 @@ This is a decentralised file sharing Dapp built using Apillon SDK under Build on
 
 - [Next.js 14](https://nextjs.org/docs/getting-started)
 - [Apillon SDK](https://app.apillon.io/)
-- [NextUI v2](https://nextui.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
+
 
 # Pre-requisites: 
 
